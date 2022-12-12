@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": false,
+    "vs-kubernetes": {
+        "disable-linters": ["resource-limits"],
+    },
+}
